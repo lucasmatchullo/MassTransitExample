@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lucas/ProjetosCT/TransitBusTest/Shared/Shared.csproj": {}
+  },
+  "projects": {
+    "/home/lucas/ProjetosCT/TransitBusTest/Shared/Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lucas/ProjetosCT/TransitBusTest/Shared/Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "/home/lucas/ProjetosCT/TransitBusTest/Shared/Shared.csproj",
+        "packagesPath": "/home/lucas/.nuget/packages/",
+        "outputPath": "/home/lucas/ProjetosCT/TransitBusTest/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lucas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

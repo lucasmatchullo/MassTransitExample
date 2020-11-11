@@ -1,0 +1,9 @@
+/home/lucas/ProjetosCT/TransitBusTest/Shared/bin/Debug/netcoreapp3.1/Shared.deps.json
+/home/lucas/ProjetosCT/TransitBusTest/Shared/bin/Debug/netcoreapp3.1/Shared.dll
+/home/lucas/ProjetosCT/TransitBusTest/Shared/bin/Debug/netcoreapp3.1/Shared.pdb
+/home/lucas/ProjetosCT/TransitBusTest/Shared/obj/Debug/netcoreapp3.1/Shared.csprojAssemblyReference.cache
+/home/lucas/ProjetosCT/TransitBusTest/Shared/obj/Debug/netcoreapp3.1/Shared.AssemblyInfoInputs.cache
+/home/lucas/ProjetosCT/TransitBusTest/Shared/obj/Debug/netcoreapp3.1/Shared.AssemblyInfo.cs
+/home/lucas/ProjetosCT/TransitBusTest/Shared/obj/Debug/netcoreapp3.1/Shared.csproj.CoreCompileInputs.cache
+/home/lucas/ProjetosCT/TransitBusTest/Shared/obj/Debug/netcoreapp3.1/Shared.dll
+/home/lucas/ProjetosCT/TransitBusTest/Shared/obj/Debug/netcoreapp3.1/Shared.pdb
